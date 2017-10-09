@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fsnova-c4.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fsnova-c4?ref=badge_shield)
+
 本项目是[Snova](http://code.google.com/p/snova/)的C4服务端的NodeJS实现， 可以部署到一些NodeJS PAaS平台，或者VPS上。
 
 部署服务端
@@ -41,3 +43,7 @@
 
 此Proxy实现在SPAC中名称为C4, 若想只用C4作为唯一的Proxy实现，修改[SPAC]下的Default值为C4或者更改代理默认端口为48102
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fsnova-c4.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fsnova-c4?ref=badge_large)
